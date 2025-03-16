@@ -47,7 +47,7 @@ int main()
 
     cout << "Total Subtracted: " << x - y << "\n" << "      Or: " << y - x << "\n";
      
-
+    //Add if statements for next part of the calculator, then basic algebraic calculations
 
 
 }
